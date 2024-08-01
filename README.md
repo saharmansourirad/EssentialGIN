@@ -4,6 +4,8 @@ This repository implements a method for essential gene detection using Graph Iso
 
 Data used is available at: https://drive.google.com/file/d/18TyM7WvZe5QxGCEAxJUWH0kHmi2fWCxa/view?usp=sharing
 
+Download the data and place the entire folter into data folder
+
 ### Requirements:
 
 Python 3.x
