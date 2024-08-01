@@ -4,7 +4,7 @@ This repository implements a method for essential gene detection using Graph Iso
 
 Data used is available at: https://drive.google.com/file/d/18TyM7WvZe5QxGCEAxJUWH0kHmi2fWCxa/view?usp=sharing
 
-Download the data and place them in a folder called daatnext to other ones.
+Download the data and place them in a folder called data next to other folders.
 
 ### Requirements:
 
